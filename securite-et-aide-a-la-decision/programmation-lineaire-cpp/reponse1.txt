@@ -1,0 +1,8 @@
+1 - Les variables représentent la coloration des noeuds
+
+2 - Contraintes du pb :
+    * contrainte sur chaque noeuds
+    * contrainte sur les couleurs
+    * contrainte sur les liens entre les noeuds
+
+3 - La fonction objective à optimiser est celle qui va minimiser le nombre de couleur pour chaque noeud.
